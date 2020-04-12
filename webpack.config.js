@@ -18,6 +18,7 @@ module.exports = {
       warnings: true,
       publicPath: false,
     },
+    port: 3000,
   },
   module: {
     rules: [
