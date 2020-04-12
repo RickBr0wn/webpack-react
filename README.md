@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```bash
+```
 a node package manager (yarn or npm)
 a command line terminal (iTerm or bash)
 your favorite IDE (vscode, sublime)
@@ -56,6 +56,6 @@ See also the list of [contributors](https://github.com/RickBr0wn/webpack-react) 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](<[LICENSE.md](https://gist.github.com/RickBr0wn/5f95ee6118bb32034e2b94acbd88a99d)>) file for details
 
 ## Acknowledgments
