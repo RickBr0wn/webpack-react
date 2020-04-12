@@ -24,10 +24,11 @@ In order to clone this repo:
 git clone https://github.com/RickBr0wn/webpack-react <YOUR_PROJECT_NAME> && cd $_
 ```
 
-In order to start your own repository, make sure you are in the cloned directory):
+In order to start your own repository, (important: make sure you are in the cloned directory):
 
 ```bash
 rm -rf .git
+git init
 ```
 
 This will remove the existing git history, and allow you to link it to your own repository.
