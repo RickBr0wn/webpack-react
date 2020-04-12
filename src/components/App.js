@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
+    <div data-testid="app">
       <h1>Webpack & React minimal boilerplate.</h1>
     </div>
   )
