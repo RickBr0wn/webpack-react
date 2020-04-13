@@ -45,7 +45,7 @@ yarn test:coverage
 
 ## Built With
 
-[webpack](https://webpack.js.org) -  A static module bundler for modern JavaScript applications.
+[webpack](https://webpack.js.org) - A static module bundler for modern JavaScript applications.
 [react](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
 [babel](https://babeljs.io) - A toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript.
 [eslint](https://eslint.org) - Statically analyzes your code to quickly find problems.
@@ -53,7 +53,6 @@ yarn test:coverage
 [husky](https://github.com/typicode/husky) - Git hooks made easy.
 [jest](https://jestjs.io) - A test runner/framework for Javascript.
 [react-testing-library](https://testing-library.com/docs/react-testing-library/intro) - Builds on top of DOM Testing Library by adding APIs for working with React components.
-
 
 ## Contributing
 
