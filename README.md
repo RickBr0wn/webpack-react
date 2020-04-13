@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To get this boilerplate running locally you will need:
 
 ```
 a node package manager (yarn or npm)
@@ -18,20 +18,24 @@ your favorite IDE (vscode, sublime)
 
 ### Installing
 
-In order to clone this repo:
+Clone the repo:
 
 ```bash
 git clone https://github.com/RickBr0wn/webpack-react-babel <YOUR_PROJECT_NAME> && cd <YOUR_PROJECT_NAME>
 ```
 
-In order to start your own repository, (important: make sure you are in the cloned directory):
+To start your own repository,
+
+> **important:** make sure you are in the cloned directory.
 
 ```bash
 rm -rf .git
 git init
 ```
 
-This will remove the existing git history, and allow you to link it to a new repository. Please credit this boilerplate if you build something fantastic!
+This will remove the existing git history, and allow you to link it to a new repository.
+
+> Please credit this boilerplate if you build something fantastic!
 
 ## Running the tests
 
@@ -47,7 +51,7 @@ yarn test:coverage
 
 - [webpack](https://webpack.js.org) - A static module bundler for modern JavaScript applications.
 - [react](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
-- [babel](https://babeljs.io) - A toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript.
+- [babel](https://babeljs.io) - A toolchain used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript.
 - [eslint](https://eslint.org) - Statically analyzes your code to quickly find problems.
 - [prettier](https://prettier.io) - An opinionated code formatter.
 - [husky](https://github.com/typicode/husky) - Git hooks made easy.
@@ -58,11 +62,9 @@ yarn test:coverage
 
 Please read [CONTRIBUTING.md](https://gist.github.com/RickBr0wn/0b4a139f833e0d0bafddb0d043644b20) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Authors
+## Author(s)
 
 - **Rick Brown** - _Initial work_ - [RickBr0wn](https://github.com/RickBr0wn)
-
-See also the list of [contributors](https://github.com/RickBr0wn/webpack-react) who participated in this project.
 
 ## License
 
