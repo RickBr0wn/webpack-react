@@ -1,6 +1,6 @@
 # Webpack-React-Babel
 
-A boilerplate for a Webpack bundled React project with Babel.
+A boilerplate for a Webpack bundled React project with Babel. This has been created as part of a blog post series. Part one can be seen [here](https://www.self-taught-and-fraught.com/react/use-fetch/)
 
 ## Getting Started
 
@@ -10,11 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 To get this boilerplate running locally you will need:
 
-```
-a node package manager (yarn or npm)
-a command line terminal (iTerm or bash)
-your favorite IDE (vscode, sublime)
-```
+- a node package manager (yarn or npm)
+- a command line terminal (iTerm or bash)
+- your favorite IDE (vscode, sublime)
 
 ### Installing
 
@@ -60,7 +58,7 @@ yarn test:coverage
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/RickBr0wn/0b4a139f833e0d0bafddb0d043644b20) for details on our code of conduct, and the process for submitting pull requests to us.
+[CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## Author(s)
 
