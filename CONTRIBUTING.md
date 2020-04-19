@@ -12,7 +12,7 @@ This repository managed based on forked pull request strategy
 
 ```sh
 # Fort this repository to yours.
-$ git clone [YOUR_REPOSITORY_URL]
+$ git clone https://github.com/RickBr0wn/webpack-react-babel [YOUR_REPOSITORY]
 $ cd webpack-react-babel
 
 # Install npm packages and start this project.
