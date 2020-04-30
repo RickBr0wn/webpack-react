@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 import React from 'react'
-import App from './App'
+import App from '../App'
 
 // NOTE: render is attached to the global object
 // see: setupTests.js
